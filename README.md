@@ -43,7 +43,7 @@
 </div>
 <br>
 
-<!-- 最近博客动态 -->
+<!-- 精选博客动态 -->
 <table align="center">
 <tr>
 <td valign="top">    
