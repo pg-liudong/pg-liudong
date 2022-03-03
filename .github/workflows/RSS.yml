@@ -1,0 +1,18 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # 我的博客 RSS 链接
+          feed_list: "https://www.vreadtech.com/rss_test.php?uin=obyEs1bGy8MkJb8euDQkKc3GSVDo&key=101f34a17f79294c5d1fb12765f0622b"
+          # 获取最新 10 篇文章
+          max_post_count: 5
