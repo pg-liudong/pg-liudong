@@ -59,11 +59,11 @@
 <!-- END_SECTION:blog -->
   
 <!-- BLOG-POST-LIST:START -->
-- [人生21岁，版本更新日志！](https://sunguoqi.com/posts/20220225.html)
-- [我终于学废用Fiddler抓包了！](https://sunguoqi.com/posts/fiddler.html)
-- [零基础快速上手云服务器](https://sunguoqi.com/posts/4243.html)
-- [给GitHub首页添加一个有趣的贪吃蛇小动画](https://sunguoqi.com/posts/33414.html)
-- [21年终总结&amp;&amp;关于我自学爬虫的点滴经历](https://sunguoqi.com/posts/cuiqingcai.html)
+- [基于Maven的SpringBoot工程中，如何使用proguard进行Java代码混淆？](https://www.jianshu.com/p/21a72c4cc06c)
+- [Mac中JDK1.8和JDK11双版本自由切换](https://www.jianshu.com/p/ce7082257758)
+- [手撸了一个 SpringBoot Starter 解决了 Kafka多数据源配置](https://www.jianshu.com/p/7abd84ddf8e3)
+- [一怒之下，开发了一款IDEA插件 [Mybatis Log Plus]](https://www.jianshu.com/p/e7636883585f)
+- [Spring 是如何解决循环依赖的？你真的能说清楚吗？](https://www.jianshu.com/p/56f0d42a978c)
 <!-- BLOG-POST-LIST:END -->  
   
 </td>
