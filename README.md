@@ -33,8 +33,8 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://twitter.com/pg_liudong"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.facebook.com/profile.php?id=100078697144014"><img src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC4uLCfeV3B7-ayoSlEw527A"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
+  <a href="https://www.cnblogs.com/pg-liudong/"><img src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2%E5%9B%AD-2E7ACC"></a>&emsp;
+  <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAA1Au05y2TOMQ_pT9zDWMfFVHqV2Ux7_bS09050eaoBjMEDbpBPc5vAOUjG_XCLfjw/?source=list&log_from=ff15570a0e14f_1646304775858"><img src="https://img.shields.io/badge/toutiao-%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1-F04142"></a>&emsp;
   <a href="https://www.jianshu.com/u/f6d5674bfbb4"><img src="https://img.shields.io/badge/jianshu-%E7%AE%80%E4%B9%A6-%23EA6F5A"></a>&emsp;
   <a href="https://blog.csdn.net/qq_34227856?type=blog"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
   <a href="https://space.bilibili.com/433737232"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
