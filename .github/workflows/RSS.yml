@@ -14,5 +14,5 @@ jobs:
         with:
           # 我的博客 RSS 链接
           feed_list: "https://rsshub.app/jianshu/user/f6d5674bfbb4"
-          # 获取最新 10 篇文章
+          # 获取最新 5 篇文章
           max_post_count: 5
