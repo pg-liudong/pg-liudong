@@ -59,6 +59,11 @@
 <!-- END_SECTION:blog -->
   
 <!-- BLOG-POST-LIST:START -->
+- [人生21岁，版本更新日志！](https://sunguoqi.com/posts/20220225.html)
+- [我终于学废用Fiddler抓包了！](https://sunguoqi.com/posts/fiddler.html)
+- [零基础快速上手云服务器](https://sunguoqi.com/posts/4243.html)
+- [给GitHub首页添加一个有趣的贪吃蛇小动画](https://sunguoqi.com/posts/33414.html)
+- [21年终总结&amp;&amp;关于我自学爬虫的点滴经历](https://sunguoqi.com/posts/cuiqingcai.html)
 <!-- BLOG-POST-LIST:END -->  
   
 </td>
