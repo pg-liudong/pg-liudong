@@ -16,3 +16,14 @@ jobs:
           feed_list: "https://rsshub.app/jianshu/user/f6d5674bfbb4"
           # 获取最新 5 篇文章
           max_post_count: 5
+    
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from WeChat official Account
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "WECHAT-OFFICIAL-ACCOUNT"
+          commit_message: "Updated readme with the latest weChat official account data"
+          feed_list: "https://rsshub.app/jianshu/user/f6d5674bfbb4"
