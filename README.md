@@ -58,6 +58,11 @@
 * <a href='https://mp.weixin.qq.com/s?__biz=Mzg3OTUxOTU3Ng==&amp;mid=2247484302&amp;idx=1&amp;sn=fe5e173d0fc2bab8043188911f478e95&amp;chksm=cf0271b9f875f8af2d171a638bbd9e65cc948254cec44d334ba67e45529b74f5c147dddeca91&token=157376372&lang=zh_CN#rd' target='_blank'>熬夜干了这篇文章，终于把时间复杂度和空间复杂度，讲清楚了！</a> -->
 <!-- END_SECTION:blog -->
 <!-- WECHAT-OFFICIAL-ACCOUNT:START-->
+- [基于Maven的SpringBoot工程中，如何使用proguard进行Java代码混淆？](https://www.jianshu.com/p/21a72c4cc06c)
+- [Mac中JDK1.8和JDK11双版本自由切换](https://www.jianshu.com/p/ce7082257758)
+- [手撸了一个 SpringBoot Starter 解决了 Kafka多数据源配置](https://www.jianshu.com/p/7abd84ddf8e3)
+- [一怒之下，开发了一款IDEA插件 [Mybatis Log Plus]](https://www.jianshu.com/p/e7636883585f)
+- [Spring 是如何解决循环依赖的？你真的能说清楚吗？](https://www.jianshu.com/p/56f0d42a978c)
 <!-- WECHAT-OFFICIAL-ACCOUNT:END-->
 </td>
     
