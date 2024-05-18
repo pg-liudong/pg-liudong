@@ -66,11 +66,11 @@
 ### 🤾‍♂️ 简书最近动态
 
 <!-- BLOG-POST-LIST:START -->
+- [windows下bat命令启动springboot项目jar包](https://www.jianshu.com/p/b190f6fd074d)
 - [Spring 是如何解决循环依赖的？你真的能说清楚吗？](https://www.jianshu.com/p/56f0d42a978c)
+- [基于Maven的SpringBoot工程中，如何使用proguard进行Java代码混淆？](https://www.jianshu.com/p/21a72c4cc06c)
 - [一招搞定 GitHub 访问、下载加速](https://www.jianshu.com/p/b4f6a0050bd7)
 - [Mac中JDK1.8和JDK11双版本自由切换](https://www.jianshu.com/p/ce7082257758)
-- [基于Maven的SpringBoot工程中，如何使用proguard进行Java代码混淆？](https://www.jianshu.com/p/21a72c4cc06c)
-- [windows下bat命令启动springboot项目jar包](https://www.jianshu.com/p/b190f6fd074d)
 <!-- BLOG-POST-LIST:END -->  
   
 </td> 
